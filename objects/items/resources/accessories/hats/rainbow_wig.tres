@@ -1,10 +1,10 @@
 [gd_resource type="Resource" script_class="ItemAccessory" load_steps=40 format=3 uid="uid://ciu1w35q1uqtv"]
 
-[ext_resource type="Script" uid="uid://fb0tqfojo57q" path="res://objects/items/classes/accessory_placement.gd" id="1_jc4v0"]
-[ext_resource type="Script" uid="uid://c4eyu1xvv7h2l" path="res://objects/items/classes/head_placement.gd" id="2_k75p2"]
+[ext_resource type="Script" uid="uid://bnbe3d8tjt83e" path="res://objects/items/classes/accessory_placement.gd" id="1_jc4v0"]
+[ext_resource type="Script" uid="uid://jvum8l0pky1n" path="res://objects/items/classes/head_placement.gd" id="2_k75p2"]
 [ext_resource type="Texture2D" uid="uid://b0teu7nh1jjaa" path="res://models/accessories/hats/rainbow_wig/tt_m_chr_avt_acc_hat_rainbowAfroWig.glb-pix-1.png" id="3_ndn6b"]
 [ext_resource type="PackedScene" uid="uid://7874ngvtc33c" path="res://models/accessories/hats/rainbow_wig/tt_m_chr_avt_acc_hat_rainbowAfroWig.glb" id="4_hns7g"]
-[ext_resource type="Script" uid="uid://dvu24b3o8i3sj" path="res://objects/items/classes/item_accessory.gd" id="5_r2y5o"]
+[ext_resource type="Script" uid="uid://cqm86jhwq0764" path="res://objects/items/classes/item_accessory.gd" id="5_r2y5o"]
 
 [sub_resource type="Resource" id="Resource_8pqho"]
 script = ExtResource("2_k75p2")

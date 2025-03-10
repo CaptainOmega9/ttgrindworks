@@ -33,7 +33,7 @@
 [ext_resource type="Resource" uid="uid://c2sbco2b7ddrt" path="res://objects/cog/presets/sellbot/two_face.tres" id="30_n5bip"]
 [ext_resource type="Resource" uid="uid://d3j6v3o7y5d0w" path="res://objects/cog/presets/sellbot/the_mingler.tres" id="31_f1q40"]
 [ext_resource type="Resource" uid="uid://q8ev1hag3yvy" path="res://objects/cog/presets/sellbot/mr_hollywood.tres" id="32_uqoxg"]
-[ext_resource type="Script" uid="uid://ocitcstc3bru" path="res://objects/cog/cog_pool.gd" id="33_jctrj"]
+[ext_resource type="Script" uid="uid://cjvgyqrmxxotg" path="res://objects/cog/cog_pool.gd" id="33_jctrj"]
 
 [resource]
 script = ExtResource("33_jctrj")

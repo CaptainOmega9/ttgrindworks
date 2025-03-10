@@ -1,0 +1,39 @@
+[gd_resource type="Resource" script_class="CogDNA" load_steps=10 format=3]
+
+[ext_resource type="Script" path="res://objects/battle/battle_resources/cog_attacks/cog_attack.gd" id="1"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/audit.tres" id="2"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/calculate.tres" id="3"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/tabulate.tres" id="4"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/workout.tres" id="5"]
+[ext_resource type="PackedScene" path="res://models/cogs/heads/legaleagle.glb" id="6"]
+[ext_resource type="Script" path="res://objects/cog/cogdna.gd" id="7"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/status_effect.gd" id="8"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres" id="9"]
+
+[resource]
+script = ExtResource("7")
+department = 1
+suit = 0
+cog_name = "Golden Eagle"
+name_plural = ""
+head = ExtResource("6")
+head_scale = Vector3(1, 1, 1)
+head_pos = Vector3(0, 0, 0)
+scale = 6.55
+head_textures = Array[Texture2D]([])
+hand_color = Color(0.562128, 0.412935, 0.129165, 1)
+head_color = Color(1, 1, 1, 1)
+custom_nametag_height = 0.0
+custom_nametag_suffix = ""
+attacks = Array[ExtResource("1")]([ExtResource("2"), ExtResource("3"), ExtResource("4"), ExtResource("5")])
+level_low = 9
+level_high = 12
+status_effects = Array[ExtResource("8")]([ExtResource("9")])
+is_mod_cog = true
+is_admin = false
+health_mod = 1.0
+battle_phrases = Array[String](["You will never get my nest egg!"])
+external_assets = {
+&"head_model": "",
+&"head_textures": ["user://save/custom_cogs/goldenEagle_tt_t_ene_hed_legalEagle.png"]
+}

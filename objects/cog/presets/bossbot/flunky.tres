@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="CogDNA" load_steps=8 format=3 uid="uid://c5dbwjk742di6"]
 
-[ext_resource type="Script" uid="uid://bb27him60xtnk" path="res://objects/battle/battle_resources/cog_attacks/cog_attack.gd" id="1_s338g"]
+[ext_resource type="Script" uid="uid://bs4weca3hvhld" path="res://objects/battle/battle_resources/cog_attacks/cog_attack.gd" id="1_s338g"]
 [ext_resource type="Script" uid="uid://okjbx502s3r5" path="res://objects/cog/cogdna.gd" id="1_u5wga"]
 [ext_resource type="Resource" uid="uid://3l28x2fofrgl" path="res://objects/battle/battle_resources/cog_attacks/resources/carbon_copy.tres" id="2_84e0q"]
 [ext_resource type="Resource" uid="uid://c27ek2anjbx88" path="res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres" id="3_28dpw"]

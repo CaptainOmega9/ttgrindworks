@@ -1,8 +1,8 @@
 [gd_resource type="Resource" script_class="ItemAccessory" load_steps=40 format=3 uid="uid://clcnuojw0d4h2"]
 
-[ext_resource type="Script" uid="uid://fb0tqfojo57q" path="res://objects/items/classes/accessory_placement.gd" id="1_j33wr"]
-[ext_resource type="Script" uid="uid://dvu24b3o8i3sj" path="res://objects/items/classes/item_accessory.gd" id="1_oo2q4"]
-[ext_resource type="Script" uid="uid://c4eyu1xvv7h2l" path="res://objects/items/classes/head_placement.gd" id="2_05ofi"]
+[ext_resource type="Script" uid="uid://bnbe3d8tjt83e" path="res://objects/items/classes/accessory_placement.gd" id="1_j33wr"]
+[ext_resource type="Script" uid="uid://cqm86jhwq0764" path="res://objects/items/classes/item_accessory.gd" id="1_oo2q4"]
+[ext_resource type="Script" uid="uid://jvum8l0pky1n" path="res://objects/items/classes/head_placement.gd" id="2_05ofi"]
 [ext_resource type="PackedScene" uid="uid://b53p74ixvf8rh" path="res://models/accessories/glasses/dorky/dork_glasses.glb" id="2_yh3d7"]
 [ext_resource type="Texture2D" uid="uid://cwsvhe2j2b3i6" path="res://models/accessories/glasses/dorky/dork_glasses.glb-pix-1.png" id="3_a62yo"]
 

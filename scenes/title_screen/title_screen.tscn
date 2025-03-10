@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://bg0as47hsfrlg" path="res://scenes/title_screen/title_screen.gd" id="1_pgrta"]
 [ext_resource type="FontFile" uid="uid://dyjvd6wmo0bmg" path="res://fonts/vtRemingtonPortable.ttf" id="9_ikkwa"]
 [ext_resource type="FontFile" uid="uid://cup2yr5w7or1l" path="res://fonts/Minnie.TTF" id="10_dmagf"]
-[ext_resource type="Shader" uid="uid://ryrnfqn0ixe5" path="res://scenes/title_screen/hue_shift.gdshader" id="10_ngpco"]
+[ext_resource type="Shader" uid="uid://b0l5b6xsipxln" path="res://scenes/title_screen/hue_shift.gdshader" id="10_ngpco"]
 [ext_resource type="Texture2D" uid="uid://ddcktpjy3gdew" path="res://ui_assets/misc/uiAccessoryDelete_up.png" id="11_iexge"]
 [ext_resource type="PackedScene" uid="uid://dkd6dg5s5uuef" path="res://objects/general_ui/base_panel.tscn" id="11_s4o3l"]
 [ext_resource type="Texture2D" uid="uid://b7ri5sq021cvo" path="res://ui_assets/misc/uiAccessoryDelete_down.png" id="12_nwwc5"]

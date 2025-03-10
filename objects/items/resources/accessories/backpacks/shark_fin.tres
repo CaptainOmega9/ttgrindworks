@@ -1,8 +1,8 @@
 [gd_resource type="Resource" script_class="ItemAccessory" load_steps=9 format=3 uid="uid://cmrx0t67871w2"]
 
-[ext_resource type="Script" uid="uid://dvu24b3o8i3sj" path="res://objects/items/classes/item_accessory.gd" id="1_kbdgi"]
-[ext_resource type="Script" uid="uid://fb0tqfojo57q" path="res://objects/items/classes/accessory_placement.gd" id="1_pof3x"]
-[ext_resource type="Script" uid="uid://duxq3xtgnln43" path="res://objects/items/classes/body_placement.gd" id="2_5y17v"]
+[ext_resource type="Script" uid="uid://cqm86jhwq0764" path="res://objects/items/classes/item_accessory.gd" id="1_kbdgi"]
+[ext_resource type="Script" uid="uid://bnbe3d8tjt83e" path="res://objects/items/classes/accessory_placement.gd" id="1_pof3x"]
+[ext_resource type="Script" uid="uid://dhx66qlpeu5pn" path="res://objects/items/classes/body_placement.gd" id="2_5y17v"]
 [ext_resource type="PackedScene" uid="uid://bw6o4v00od7c5" path="res://models/accessories/backpacks/shark_fin/tt_m_chr_avt_acc_pac_sharkFin.glb" id="3_3ovak"]
 [ext_resource type="Texture2D" uid="uid://i56qjyr3q5pv" path="res://models/accessories/backpacks/shark_fin/tt_m_chr_avt_acc_pac_sharkFin.glb-pix-1.png" id="3_gvol2"]
 

@@ -1,0 +1,42 @@
+[gd_resource type="Resource" script_class="CogDNA" load_steps=11 format=3]
+
+[ext_resource type="Script" path="res://objects/battle/battle_resources/cog_attacks/cog_attack.gd" id="1"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/pop_quiz_math.tres" id="2"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres" id="3"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres" id="4"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres" id="5"]
+[ext_resource type="Resource" path="res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres" id="6"]
+[ext_resource type="Texture2D" path="res://models/cogs/textures/clown/sleeveClown.png" id="7"]
+[ext_resource type="Texture2D" path="res://models/cogs/textures/clown/blazerClown.png" id="8"]
+[ext_resource type="Script" path="res://objects/cog/cogdna.gd" id="9"]
+[ext_resource type="Script" path="res://objects/battle/battle_resources/status_effect.gd" id="10"]
+
+[resource]
+script = ExtResource("9")
+department = 1
+suit = 2
+custom_blazer_tex = ExtResource("8")
+custom_arm_tex = ExtResource("7")
+custom_leg_tex = ExtResource("7")
+cog_name = "Clown-A-Round"
+name_plural = ""
+head_scale = Vector3(1, 1, 1)
+head_pos = Vector3(0, 0, 0)
+scale = 4.0
+head_textures = Array[Texture2D]([])
+hand_color = Color(1, 0.698039, 0.482353, 1)
+head_color = Color(1, 1, 1, 1)
+custom_nametag_height = 11.2
+custom_nametag_suffix = ""
+attacks = Array[ExtResource("1")]([ExtResource("2"), ExtResource("3"), ExtResource("4"), ExtResource("5"), ExtResource("6")])
+level_low = 8
+level_high = 12
+status_effects = Array[ExtResource("10")]([])
+is_mod_cog = false
+is_admin = false
+health_mod = 1.0
+battle_phrases = Array[String](["HA HA HA HA!"])
+external_assets = {
+"head_model": "user://save/custom_cogs/clownaround.glb",
+"head_textures": ["user://save/custom_cogs/clownaround_heads.png"]
+}

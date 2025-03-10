@@ -14,7 +14,7 @@
 [ext_resource type="Texture2D" uid="uid://d7gsim4q6a7k" path="res://ui_assets/battle/gags/inventory_storm_cloud.png" id="12_ycp05"]
 [ext_resource type="Script" uid="uid://dobaevw1g5kro" path="res://objects/battle/battle_resources/toon_attacks/storm_cloud.gd" id="13_kyxsx"]
 [ext_resource type="Texture2D" uid="uid://bwcofickxhmrk" path="res://ui_assets/battle/gags/inventory_geyser.png" id="14_crcck"]
-[ext_resource type="Script" uid="uid://b6b6pfoqyolr" path="res://objects/battle/battle_resources/gag_loadouts/track.gd" id="14_mkclo"]
+[ext_resource type="Script" uid="uid://bahb7ejtbbua2" path="res://objects/battle/battle_resources/gag_loadouts/track.gd" id="14_mkclo"]
 [ext_resource type="Script" uid="uid://b8hp1enjdi1s" path="res://objects/battle/battle_resources/toon_attacks/squirt_geyser.gd" id="15_85oaq"]
 
 [sub_resource type="Resource" id="Resource_kig6x"]

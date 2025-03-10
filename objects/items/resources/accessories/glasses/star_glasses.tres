@@ -1,10 +1,10 @@
 [gd_resource type="Resource" script_class="ItemAccessory" load_steps=40 format=3 uid="uid://86p47iflfkky"]
 
-[ext_resource type="Script" uid="uid://fb0tqfojo57q" path="res://objects/items/classes/accessory_placement.gd" id="1_wewl1"]
-[ext_resource type="Script" uid="uid://c4eyu1xvv7h2l" path="res://objects/items/classes/head_placement.gd" id="2_jlgk8"]
+[ext_resource type="Script" uid="uid://bnbe3d8tjt83e" path="res://objects/items/classes/accessory_placement.gd" id="1_wewl1"]
+[ext_resource type="Script" uid="uid://jvum8l0pky1n" path="res://objects/items/classes/head_placement.gd" id="2_jlgk8"]
 [ext_resource type="Texture2D" uid="uid://dp2lpibik70xn" path="res://models/accessories/glasses/star_glasses/star_glasses-pix-1.png" id="3_u7vbf"]
 [ext_resource type="PackedScene" uid="uid://cuomm0ifx302o" path="res://models/accessories/glasses/star_glasses/star_glasses.tscn" id="4_jiq6e"]
-[ext_resource type="Script" uid="uid://dvu24b3o8i3sj" path="res://objects/items/classes/item_accessory.gd" id="5_afkn2"]
+[ext_resource type="Script" uid="uid://cqm86jhwq0764" path="res://objects/items/classes/item_accessory.gd" id="5_afkn2"]
 
 [sub_resource type="Resource" id="Resource_176f6"]
 script = ExtResource("2_jlgk8")

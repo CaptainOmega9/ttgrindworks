@@ -5,7 +5,7 @@
 [ext_resource type="Resource" uid="uid://bhdofnj74gv0f" path="res://objects/items/resources/passive/red_jellybean.tres" id="3_ofwmq"]
 [ext_resource type="Resource" uid="uid://be4btivsjwqhe" path="res://objects/items/resources/passive/gag_voucher_small.tres" id="4_5m0og"]
 [ext_resource type="Resource" uid="uid://b77qp325baypa" path="res://objects/items/resources/passive/pink_slip.tres" id="7_cs7sn"]
-[ext_resource type="Script" uid="uid://wiibpvvki8vs" path="res://objects/items/classes/item_pool.gd" id="7_dju7n"]
+[ext_resource type="Script" uid="uid://ds7qvkokenk1r" path="res://objects/items/classes/item_pool.gd" id="7_dju7n"]
 [ext_resource type="Resource" uid="uid://bbt6o1b1xao18" path="res://objects/items/resources/passive/starfish_treasure.tres" id="8_4a87j"]
 [ext_resource type="Resource" uid="uid://bd5d562nvcvr2" path="res://objects/items/resources/passive/light_blue_jellybean.tres" id="8_iadk3"]
 [ext_resource type="Resource" uid="uid://davv55htjxxtw" path="res://objects/items/resources/passive/yellow_jellybean.tres" id="9_01fia"]
